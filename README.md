@@ -13,7 +13,7 @@ git clone https://github.com/Jin0704/asiayotest.git
 2. 開啟終端機，進入專案資料夾
 
 ```
-cd Shopping-cart
+cd aisayotest
 ```
 
 3. 安裝 npm 套件
