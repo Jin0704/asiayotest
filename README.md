@@ -1,8 +1,8 @@
-# Sasiayotest
+# asiayotest
 
 撰寫api供轉換幣別及幣值
 
-# 安裝與執行步驟(installation and execution)
+# 安裝與執行步驟
 
 1. 打開終端機(Terminal)，Clone 此專案至本地電腦
 
@@ -46,7 +46,7 @@ http://localhost:3000/api/format?source=USD&target=JPY&amount=$1,525
 pm2 delete all
 ```
 
-7. 單元測試
+7. 單元測試(使用jest)
 
 ```
 npm run test
