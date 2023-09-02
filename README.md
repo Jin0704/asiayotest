@@ -45,3 +45,9 @@ http://localhost:3000/api/format?source=USD&target=JPY&amount=$1,525
 ```
 pm2 delete all
 ```
+
+7. 單元測試
+
+```
+npm run test
+```
